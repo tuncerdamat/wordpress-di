@@ -14,4 +14,6 @@ Author: Tunçer Damat
 
 License: GPLv2 or later  
 
+Text Domain: dependency_injection
+
 */
